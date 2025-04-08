@@ -1,3 +1,4 @@
-My basic HTML ,CSS and JavaScript questions.
+
+# My basic HTML ,CSS and JavaScript questions.
 <br>
-Author- Anoop Kushwaha
+<b>Author:- Anoop kushwaha</b>
